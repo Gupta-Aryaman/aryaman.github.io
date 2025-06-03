@@ -11,16 +11,8 @@
     </image>
     <generator>Hugo -- 0.125.7</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Jun 2025 20:10:01 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 21:10:01 +0530</lastBuildDate>
     <atom:link href="https://aryaman.space/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>4 Years, 1000 Lessons: The Story of My B.Tech Journey</title>
-      <link>https://aryaman.space/blog/4-years-1000-lessons/</link>
-      <pubDate>Tue, 03 Jun 2025 20:10:01 +0530</pubDate>
-      <guid>https://aryaman.space/blog/4-years-1000-lessons/</guid>
-      <description>“Sometimes, you only understand the path when you’ve walked it to the end.”
-When I began my B.Tech journey, I thought it would be simple. You study hard, get good grades, build a few projects, land a good job, and graduate. But as with most things in life, it didn’t go according to the script. This post isn’t a highlight reel. It’s a story of detours, self-doubt, moments of clarity, and unexpected victories - the kind that don’t always show up on resumes but shape who you are.</description>
-    </item>
     <item>
       <title>From Scribbles to Structured Data: Processing Handwritten Prescriptions with Spark NLP</title>
       <link>https://aryaman.space/blog/medical-text-extraction/</link>
